@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Study Blocker</string>
+    <string name="accessibility_description">Ye service study ke waqt distract hone se rokti hai.</string>
+</resources>
